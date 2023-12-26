@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="16dp"
+        tools:ignore="UselessParent">
+
+        <!-- Left most ImageView -->
+        <ImageView
+            android:id="@+id/iv_profile"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:contentDescription="@string/import_image"
+            android:src="@drawable/menu_invites"
+            app:tint="@color/black" />
+
+        <!-- Center TextView -->
+        <TextView
+            android:id="@+id/textView_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/iv_profile"
+            android:layout_alignEnd="@id/imageView2"
+            android:layout_marginStart="60dp"
+            android:text="@string/event"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <!-- Left to ImageView3 -->
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:layout_alignEnd="@+id/imageView3"
+            android:layout_marginEnd="50dp"
+            android:contentDescription="@string/tool_image"
+            android:src="@drawable/icon_nav_search"
+            app:tint="@color/black" />
+
+        <!-- Right most ImageView -->
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:layout_alignParentEnd="true"
+            android:contentDescription="@string/tool_image"
+            android:src="@drawable/icon_nav_tickets"
+            app:tint="@color/black" />
+    </RelativeLayout>
+
+</RelativeLayout>

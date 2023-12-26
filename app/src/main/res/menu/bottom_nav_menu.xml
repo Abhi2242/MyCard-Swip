@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_event"
+        android:icon="@drawable/menu_event"
+        android:title="@string/event" />
+
+    <item
+        android:id="@+id/nav_connect"
+        android:icon="@drawable/menu_connect"
+        android:title="@string/connect" />
+
+    <item
+        android:id="@+id/nav_invite"
+        android:icon="@drawable/menu_invites"
+        android:title="@string/invite" />
+
+    <item
+        android:id="@+id/nav_chats"
+        android:icon="@drawable/menu_chats"
+        android:title="@string/chats" />
+
+</menu>
