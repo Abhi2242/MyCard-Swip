@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abhi/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/gallery_thumb.xml" value="0.1775" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/custom_text_input_layout.xml" value="0.145" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/filter_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/gradient_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/gradient_backround.xml" value="0.1935" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/ic_thumb_down_24.xml" value="0.1775" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/ic_thumb_up_24.xml" value="0.195" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/login_btn_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/round_image.xml" value="0.195" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/tmg_border.xml" value="0.1615" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/drawable/toolbar_icon_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout-v23/activity_connect_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout-v23/connect_carousel_item.xml" value="0.2421875" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_chats_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_connect_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_event_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_invite_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_log_in_page.xml" value="0.264" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_mobile_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_modal_bottom_sheet_m.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_show_event_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_verify_mobile_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/activity_view_my_profile.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/carousel_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/connect_carousel_item.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/content_main.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/custom_card_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/custom_chat_profile_view.xml" value="0.253125" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/custom_toolbar-1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/custom_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/custom_toolbar_m.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/event_carousel_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/fragment_modal_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/persistent_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/menu-v26/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/menu/toolbar_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abhi/Desktop/The Compleat Android Developer Course 2022/GDSEventApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1615" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
